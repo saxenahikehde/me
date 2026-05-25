@@ -80,7 +80,7 @@ Feel free to:
 - [ ] Contribute to open source
 - [ ] Help other beginners on their journey
 - [ ] Find my niche in tech
-
+- [ ] Join a hackathon
 ---
 
 ## 📝 Quote That Resonates
