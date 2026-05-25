@@ -1,4 +1,4 @@
-# Hey, I'm Hikehde! 👨‍💻
+# Hey, I'm Sarthak Saxena! 👨‍💻
 
 > A commerce enthusiast learning to vibe with code 🎵
 
